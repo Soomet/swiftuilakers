@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		920603A5231A0C6E00450C33 /* lakers.png in Resources */ = {isa = PBXBuildFile; fileRef = 920603A4231A0C6E00450C33 /* lakers.png */; };
 		920603A8231A0CC000450C33 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 920603A7231A0CC000450C33 /* CircleImage.swift */; };
+		920603AA231A0E4400450C33 /* ArenaAddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 920603A9231A0E4400450C33 /* ArenaAddressView.swift */; };
 		9232A81723198E9000411EAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9232A81623198E9000411EAB /* AppDelegate.swift */; };
 		9232A81923198E9000411EAB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9232A81823198E9000411EAB /* SceneDelegate.swift */; };
 		9232A81B23198E9000411EAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9232A81A23198E9000411EAB /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		920603A4231A0C6E00450C33 /* lakers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lakers.png; sourceTree = "<group>"; };
 		920603A7231A0CC000450C33 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		920603A9231A0E4400450C33 /* ArenaAddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArenaAddressView.swift; sourceTree = "<group>"; };
 		9232A81323198E9000411EAB /* SwiftUILakers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUILakers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9232A81623198E9000411EAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9232A81823198E9000411EAB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				9232A81823198E9000411EAB /* SceneDelegate.swift */,
 				9232A81A23198E9000411EAB /* ContentView.swift */,
 				920603A7231A0CC000450C33 /* CircleImage.swift */,
+				920603A9231A0E4400450C33 /* ArenaAddressView.swift */,
 				9232A81C23198E9300411EAB /* Assets.xcassets */,
 				920603A6231A0C8E00450C33 /* Resources */,
 				9232A82123198E9300411EAB /* LaunchScreen.storyboard */,
@@ -164,6 +167,7 @@
 				9232A81723198E9000411EAB /* AppDelegate.swift in Sources */,
 				920603A8231A0CC000450C33 /* CircleImage.swift in Sources */,
 				9232A81923198E9000411EAB /* SceneDelegate.swift in Sources */,
+				920603AA231A0E4400450C33 /* ArenaAddressView.swift in Sources */,
 				9232A81B23198E9000411EAB /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
