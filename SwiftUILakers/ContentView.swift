@@ -10,7 +10,34 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello Universe!!!! wassuo?")
+        VStack(alignment: .leading) {
+            Text("LA Lakers")
+                .font(.title)
+                .foregroundColor(Color.yellow)
+            HStack {
+                Text("Black Mamba")
+                    .font(.subheadline)
+                    .foregroundColor(Color.purple)
+                Spacer()
+                Text("Shaq")
+                    .font(.subheadline)
+                    .foregroundColor(Color.purple)
+                Spacer()
+                Text("Fisher")
+                    .font(.subheadline)
+                    .foregroundColor(Color.purple)
+                Spacer()
+                Text("Pau Gasol")
+                    .font(.subheadline)
+                    .foregroundColor(Color.purple)
+                Spacer()
+                Text("Malone")
+                    .font(.subheadline)
+                    .foregroundColor(Color.purple)
+                Spacer()
+            }
+        }
+    .padding()
     }
 }
 
